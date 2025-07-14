@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id pt_btn_restart
+id pt_ib_00x00
+id pt_ib_00x01
+id pt_ib_00x02
+id pt_ib_01x00
+id pt_ib_01x01
+id pt_ib_01x02
+id pt_ib_02x00
+id pt_ib_02x01
+id pt_ib_02x02
+id pt_iv
+id pt_line1
+id pt_line2
+id pt_line3
+id pt_tv_time
+layout activity_main
+mipmap cola
+mipmap ic_launcher
+mipmap ic_launcher_round
+mipmap img_cola_00x00
+mipmap img_cola_00x01
+mipmap img_cola_00x02
+mipmap img_cola_01x00
+mipmap img_cola_01x01
+mipmap img_cola_01x02
+mipmap img_cola_02x00
+mipmap img_cola_02x01
+mipmap img_cola_02x02
+string app_name
+style AppTheme
